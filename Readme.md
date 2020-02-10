@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Гузеев](https://up.htmlacademy.ru/javascript/19/user/427803).
-* Наставник: `Неизвестно`.
+* Наставник: [Влад Кривокора](https://vk.com/krivokoravlad).
 
 ---
 
